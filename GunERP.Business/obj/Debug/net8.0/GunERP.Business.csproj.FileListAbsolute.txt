@@ -1,0 +1,16 @@
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.sourcelink.json
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\bin\Debug\net8.0\GunERP.Business.deps.json
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\bin\Debug\net8.0\GunERP.Business.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\bin\Debug\net8.0\GunERP.Business.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\bin\Debug\net8.0\GunERP.Core.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\bin\Debug\net8.0\GunERP.Core.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.B.B3C1808E.Up2Date
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\refint\GunERP.Business.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\GunERP.Business.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Business\obj\Debug\net8.0\ref\GunERP.Business.dll

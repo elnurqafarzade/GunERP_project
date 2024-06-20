@@ -1,0 +1,16 @@
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\bin\Debug\net8.0\GunERP.Data.deps.json
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\bin\Debug\net8.0\GunERP.Data.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\bin\Debug\net8.0\GunERP.Data.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\bin\Debug\net8.0\GunERP.Core.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\bin\Debug\net8.0\GunERP.Core.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.sourcelink.json
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.D.5D7DEF7D.Up2Date
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\refint\GunERP.Data.dll
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\GunERP.Data.pdb
+C:\Users\FA507XV\Desktop\GunERP\GunERP.Data\obj\Debug\net8.0\ref\GunERP.Data.dll
